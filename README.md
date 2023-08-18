@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @michael34df
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+[michald haad]  (https://www.michaelpage.com.ph/sites/michaelpage.com.ph/files/2022-06/Software%20Developer.jpg)
+</p>
 # my stactics 
 <!---
 michael34df/michael34df is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

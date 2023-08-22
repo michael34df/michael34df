@@ -2,7 +2,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[michald haad]  (https://www.michaelpage.com.ph/sites/michaelpage.com.ph/files/2022-06/Software%20Developer.jpg)
+  
+[michael erza](https://www.michaelpage.com.ph/sites/michaelpage.com.ph/files/2022-06/Software%20Developer.jpg)
 </p>
 # my stactics 
 <!---
